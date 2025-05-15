@@ -11,7 +11,7 @@ import re
 class PalletWeighingApp:
     def __init__(self, root):
         self.root = root
-        self.root.title("Phần Mềm Cân Pallet")
+        self.root.title("Phần Mềm Cân Pallet!")
         self.root.geometry("600x850")
         self.root.configure(bg="#f5f5f5")
         
